@@ -9,6 +9,8 @@ BLE不具备和传统蓝牙BR/EDR的兼容性。它是专为小数据率、离�
 
 
 ## 我的简书：
+
 [Android ble低功耗蓝牙开发-客户端](http://www.jianshu.com/p/5ffb9087aa7c)
+
 [Android ble低功耗蓝牙开发-服务端](http://www.jianshu.com/p/18c5baa6d425)
 
